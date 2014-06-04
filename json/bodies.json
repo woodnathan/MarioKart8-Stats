@@ -1,0 +1,502 @@
+[
+  {
+    "type": "Kart",
+    "name": "Standard Kart",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Kart",
+    "name": "Prancer",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Kart",
+    "name": "Cat Cruiser",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Kart",
+    "name": "Sneeker",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Kart",
+    "name": "Gold Standard",
+    "speed": {
+      "value": 0.5,
+      "water": 0.25,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": -0.25,
+    "weight": 0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "traction": -1,
+    "mini_turbo": -0.5
+  },
+  {
+    "type": "Kart",
+    "name": "Mach 8",
+    "speed": {
+      "value": 0.5,
+      "water": 0.25,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": -0.25,
+    "weight": 0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "traction": -1,
+    "mini_turbo": -0.5
+  },
+  {
+    "type": "Kart",
+    "name": "Circuit Special",
+    "speed": {
+      "value": 0.5,
+      "water": 0.25,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": -0.25,
+    "weight": 0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "traction": -1,
+    "mini_turbo": -0.5
+  },
+  {
+    "type": "Kart",
+    "name": "Sports Coupe",
+    "speed": {
+      "value": 0.5,
+      "water": 0.25,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": -0.25,
+    "weight": 0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "traction": -1,
+    "mini_turbo": -0.5
+  },
+  {
+    "type": "Kart",
+    "name": "Bandwagon",
+    "speed": {
+      "value": 0,
+      "water": 0.5,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": -0.5,
+    "weight": 0.5,
+    "handling": {
+      "value": -0.5,
+      "water": 0.75,
+      "air": -0.5,
+      "ground": -0.5
+    },
+    "traction": 0.5,
+    "mini_turbo": -0.75
+  },
+  {
+    "type": "Kart",
+    "name": "TriSpeeder",
+    "speed": {
+      "value": 0,
+      "water": 0.5,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": -0.5,
+    "weight": 0.5,
+    "handling": {
+      "value": -0.5,
+      "water": 0.75,
+      "air": -0.5,
+      "ground": -0.5
+    },
+    "traction": 0.5,
+    "mini_turbo": -0.75
+  },
+  {
+    "type": "Kart",
+    "name": "Steel Driver",
+    "speed": {
+      "value": 0,
+      "water": 0.5,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": -0.5,
+    "weight": 0.5,
+    "handling": {
+      "value": -0.5,
+      "water": 0.75,
+      "air": -0.5,
+      "ground": -0.5
+    },
+    "traction": 0.5,
+    "mini_turbo": -0.75
+  },
+  {
+    "type": "Kart",
+    "name": "Biddybuggy",
+    "speed": {
+      "value": -0.75,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 1.25,
+    "weight": -0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.25
+    },
+    "traction": -0.25,
+    "mini_turbo": 1
+  },
+  {
+    "type": "Kart",
+    "name": "Landship",
+    "speed": {
+      "value": -0.75,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 1.25,
+    "weight": -0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.25
+    },
+    "traction": -0.25,
+    "mini_turbo": 1
+  },
+  {
+    "type": "Kart",
+    "name": "Pipe Frame",
+    "speed": {
+      "value": 0,
+      "water": 0.25,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": 0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0.5
+    },
+    "traction": -0.5,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Bike",
+    "name": "The Duke",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Bike",
+    "name": "Mr. Scooty",
+    "speed": {
+      "value": -0.75,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 1.25,
+    "weight": -0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.25
+    },
+    "traction": -0.25,
+    "mini_turbo": 1
+  },
+  {
+    "type": "Bike",
+    "name": "Standard Bike",
+    "speed": {
+      "value": 0,
+      "water": 0.25,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": 0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0.5
+    },
+    "traction": -0.5,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Bike",
+    "name": "Flame Ride",
+    "speed": {
+      "value": 0,
+      "water": 0.25,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": 0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0.5
+    },
+    "traction": -0.5,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Bike",
+    "name": "Varmit",
+    "speed": {
+      "value": 0,
+      "water": 0.25,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": 0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0.5
+    },
+    "traction": -0.5,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Bike",
+    "name": "Sports Bike",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": 0.75,
+    "weight": -0.25,
+    "handling": {
+      "value": 0.75,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.75
+    },
+    "traction": -1.25,
+    "mini_turbo": 0.5
+  },
+  {
+    "type": "Bike",
+    "name": "Jet Bike",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": 0.75,
+    "weight": -0.25,
+    "handling": {
+      "value": 0.75,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.75
+    },
+    "traction": -1.25,
+    "mini_turbo": 0.5
+  },
+  {
+    "type": "Bike",
+    "name": "Comet",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": 0.75,
+    "weight": -0.25,
+    "handling": {
+      "value": 0.75,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.75
+    },
+    "traction": -1.25,
+    "mini_turbo": 0.5
+  },
+  {
+    "type": "Bike",
+    "name": "Yoshi Bike",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0
+    },
+    "acceleration": 0.75,
+    "weight": -0.25,
+    "handling": {
+      "value": 0.75,
+      "water": 0.75,
+      "air": 0.5,
+      "ground": 0.75
+    },
+    "traction": -1.25,
+    "mini_turbo": 0.5
+  },
+  {
+    "type": "ATV",
+    "name": "Teddy Buggy",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": -0.25,
+      "ground": 0.25
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "ATV",
+    "name": "Wild Wiggler",
+    "speed": {
+      "value": 0,
+      "water": 0.25,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": 0.5,
+    "handling": {
+      "value": 0.5,
+      "water": 0.5,
+      "air": 0.25,
+      "ground": 0.5
+    },
+    "traction": -0.5,
+    "mini_turbo": 0.25
+  }
+]

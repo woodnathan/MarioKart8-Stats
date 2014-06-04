@@ -1,0 +1,202 @@
+[
+  {
+    "type": "Speed",
+    "name": "Super",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Speed",
+    "name": "Waddle Wing",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Speed",
+    "name": "Plane",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Speed",
+    "name": "Wario Wing",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Speed",
+    "name": "Gold",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "acceleration": 0,
+    "weight": 0,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0
+  },
+  {
+    "type": "Acceleration",
+    "name": "Flower",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": -0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Acceleration",
+    "name": "Peach Parasol",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": -0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Acceleration",
+    "name": "MKTV Parafoil",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": -0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Acceleration",
+    "name": "Bowser Kite",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": -0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0.25
+  },
+  {
+    "type": "Acceleration",
+    "name": "Cloud",
+    "speed": {
+      "value": 0,
+      "water": 0,
+      "air": 0,
+      "ground": 0
+    },
+    "acceleration": 0.25,
+    "weight": -0.25,
+    "handling": {
+      "value": 0,
+      "water": 0,
+      "air": 0.25,
+      "ground": 0
+    },
+    "traction": 0,
+    "mini_turbo": 0.25
+  }
+]
